@@ -1,0 +1,98 @@
+10:38:39.470 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Specials Offers link Verified
+10:38:39.799 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Account Login link Verified
+10:38:40.089 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Order History link Verified
+10:38:40.354 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - WishList link Verified
+10:38:40.642 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - NewsLetter link Verified
+10:40:09.166 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+10:40:09.168 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+10:40:09.228 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+10:40:10.046 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+10:40:11.087 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+10:40:11.123 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+10:40:14.176 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Started
+10:40:14.247 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked MyAccount
+10:40:15.084 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Btn
+10:40:15.229 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input Email id to Login
+10:40:15.300 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input password to Login
+10:40:15.610 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Button
+10:40:15.644 [TestNG-tests-1] INFO  testCases.TC_002_Login - Title Validated
+10:40:15.918 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+10:40:18.848 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - TC_004_ValidateHomePageFooterLinks Started
+10:40:19.159 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - About Us link Verified
+10:40:19.454 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Delivery Information link Verified
+10:40:19.755 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Privacy Policy link Verified
+10:40:20.056 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Terms &Conditions link Verified
+10:40:20.350 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - ContactUs link Verified
+10:40:21.208 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Product Returns link Verified
+10:40:21.649 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - SiteMap link Verified
+10:40:21.973 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Brands link Verified
+10:40:22.250 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - GiftCertificates link Verified
+10:40:22.475 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Affliate link Verified
+10:40:22.913 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Specials Offers link Verified
+10:40:23.240 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Account Login link Verified
+10:40:23.528 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Order History link Verified
+10:40:23.813 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - WishList link Verified
+10:40:24.099 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - NewsLetter link Verified
+10:41:56.962 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+10:41:56.965 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+10:41:57.033 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+10:41:57.989 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+10:41:59.030 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+10:41:59.065 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+10:42:01.969 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Started
+10:42:02.014 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked MyAccount
+10:42:02.819 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Btn
+10:42:02.970 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input Email id to Login
+10:42:03.037 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input password to Login
+10:42:03.350 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Button
+10:42:03.387 [TestNG-tests-1] INFO  testCases.TC_002_Login - Title Validated
+10:42:03.663 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+10:42:06.675 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - TC_004_ValidateHomePageFooterLinks Started
+10:42:06.989 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - About Us link Verified
+10:42:07.278 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Delivery Information link Verified
+10:42:07.571 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Privacy Policy link Verified
+10:42:07.874 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Terms &Conditions link Verified
+10:42:08.172 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - ContactUs link Verified
+10:42:09.168 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Product Returns link Verified
+10:42:09.590 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - SiteMap link Verified
+10:42:09.906 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Brands link Verified
+10:42:10.156 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - GiftCertificates link Verified
+10:42:10.376 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Affliate link Verified
+10:42:10.828 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Specials Offers link Verified
+10:42:11.158 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Account Login link Verified
+10:42:11.447 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Order History link Verified
+10:42:11.723 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - WishList link Verified
+10:42:12.002 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - NewsLetter link Verified
+13:00:37.164 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Started
+13:00:37.328 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Desktop link 
+13:00:37.422 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Validated Desktop all Sub Menu Items 
+13:03:52.926 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Started
+13:03:53.095 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Desktop link 
+13:13:39.973 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Started
+13:13:40.127 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Desktop link 
+13:13:40.219 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Validated Desktop all Sub Menu Items 
+13:21:07.010 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Started
+13:21:07.176 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Desktop link 
+13:21:07.268 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Validated Desktop all Sub Menu Items 
+13:21:08.061 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Show All Desktop
+13:21:08.061 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Finished
+14:51:28.191 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Started
+14:51:28.361 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Desktop link 
+14:51:28.451 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Validated Desktop all Sub Menu Items 
+14:51:29.245 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Show All Desktop
+14:51:29.246 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Finished
+14:51:49.318 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Started
+14:51:49.484 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Desktop link 
+14:51:49.572 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Validated Desktop all Sub Menu Items 
+14:51:50.347 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Show All Desktop
+14:51:50.348 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Finished
+14:52:31.064 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Started
+14:52:31.240 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Desktop link 
+14:52:31.330 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Validated Desktop all Sub Menu Items 
+14:52:32.093 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Show All Desktop
+14:52:32.094 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Finished
+20:20:24.363 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Started
+20:20:24.564 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Desktop link 
+20:20:24.681 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Validated Desktop all Sub Menu Items 
+20:20:25.601 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - Clicked Show All Desktop
+20:20:25.601 [TestNG-tests-1] INFO  testCases.TC_005_TestMenuItems - TC_005_TestMenuItems Finished

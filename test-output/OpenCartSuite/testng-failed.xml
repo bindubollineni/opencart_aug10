@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [OpenCartSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="FirefoxTest(failed)">
+    <classes>
+      <class name="testCases.TC_002_Login">
+        <methods>
+          <include name="testLoginPage"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_002_Login -->
+      <class name="testCases.TC_001_AccountRegistration">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="test_RegisterAccount"/>
+        </methods>
+      </class> <!-- testCases.TC_001_AccountRegistration -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+  <test thread-count="5" parallel="tests" name="ChromeTest(failed)">
+    <classes>
+      <class name="testCases.TC_002_Login">
+        <methods>
+          <include name="testLoginPage"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_002_Login -->
+      <class name="testCases.TC_001_AccountRegistration">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="test_RegisterAccount"/>
+        </methods>
+      </class> <!-- testCases.TC_001_AccountRegistration -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [OpenCartSuite] -->

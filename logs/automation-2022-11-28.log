@@ -1,0 +1,547 @@
+22:51:36.311 [main] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:51:36.314 [main] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:51:36.406 [main] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:51:37.252 [main] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+22:51:38.382 [main] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+22:51:38.422 [main] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+23:07:45.293 [main] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+23:07:45.299 [main] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:07:45.374 [main] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:07:46.318 [main] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+23:07:47.494 [main] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+23:07:47.535 [main] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+23:09:27.670 [main] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+23:09:27.675 [main] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:09:27.745 [main] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:09:28.717 [main] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+23:09:29.909 [main] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+23:09:29.956 [main] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+23:10:48.451 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+23:10:48.460 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:10:48.529 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:10:49.365 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+23:10:50.545 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+23:10:50.588 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+23:22:39.078 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+23:22:39.085 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:22:39.287 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:22:40.249 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+23:22:42.158 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+23:22:42.233 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+23:22:44.187 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+23:22:44.188 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:22:44.487 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:22:45.954 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+23:22:47.141 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+23:22:47.166 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+23:40:51.026 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+23:40:51.033 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:40:51.197 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:40:52.331 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+23:40:54.267 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+23:40:54.349 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+23:40:56.020 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+23:40:56.021 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:40:56.400 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+23:40:57.648 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+23:40:58.688 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+23:40:58.713 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+07:37:01.192 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+07:37:01.192 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+07:37:01.211 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:37:01.211 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:37:01.551 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:37:01.761 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:41:51.436 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+07:41:51.436 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+07:41:51.441 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:41:51.441 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:41:51.730 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:41:51.945 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:55:12.156 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+07:55:12.159 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:55:12.236 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:55:13.427 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+07:55:14.545 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+07:55:14.582 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+07:57:22.347 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+07:57:22.347 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+07:57:22.352 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:57:22.352 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:57:22.615 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:57:22.831 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:58:50.178 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+07:58:50.178 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+07:58:50.181 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:58:50.181 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:58:50.436 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+07:58:50.647 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+08:03:18.609 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+08:03:18.613 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+08:03:18.679 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+08:03:19.812 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+08:03:20.924 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+08:03:20.958 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+08:04:35.061 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+08:04:35.061 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+08:04:35.064 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+08:04:35.064 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+08:04:35.353 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+08:04:35.564 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:16:24.656 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+21:16:24.656 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+21:16:24.659 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:16:24.659 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:16:24.926 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:16:25.140 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:25:41.720 [TestNG-test=ChromeTest-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+21:25:41.724 [TestNG-test=ChromeTest-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:25:41.818 [TestNG-test=ChromeTest-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:25:42.825 [TestNG-test=ChromeTest-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+21:25:44.018 [TestNG-test=ChromeTest-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+21:25:44.059 [TestNG-test=ChromeTest-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+21:25:54.022 [TestNG-test=FireFoxTest-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+21:25:54.023 [TestNG-test=FireFoxTest-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:25:54.366 [TestNG-test=FireFoxTest-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:25:55.763 [TestNG-test=FireFoxTest-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+21:25:56.647 [TestNG-test=FireFoxTest-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+21:25:56.662 [TestNG-test=FireFoxTest-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+21:33:01.119 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+21:33:01.119 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+21:33:01.123 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:33:01.123 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:33:01.384 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:33:01.593 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:37:59.645 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+21:37:59.651 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:37:59.935 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:38:01.270 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+21:38:02.151 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+21:38:02.169 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+21:52:04.558 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+21:52:04.558 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+21:52:04.563 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:52:04.563 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:52:04.852 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+21:52:05.063 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:10:52.269 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:10:52.269 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:10:52.275 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:10:52.275 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:10:52.609 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:10:52.827 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:14:27.358 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:14:27.368 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:14:27.638 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:14:28.665 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+22:14:45.771 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:14:45.772 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:14:46.432 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:15:42.689 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:15:42.702 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:15:57.672 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:15:57.674 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:15:57.939 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:15:58.202 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:19:59.775 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:19:59.775 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:19:59.782 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:19:59.782 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:20:00.129 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:20:00.350 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:21:26.555 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:21:26.568 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:21:26.683 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:21:27.585 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+22:21:29.501 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:21:29.502 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:21:29.786 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:21:29.990 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+22:21:30.052 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+22:21:31.563 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+22:21:32.916 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+22:21:32.939 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+22:24:13.266 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:24:13.275 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:24:13.398 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:24:14.433 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+22:24:16.405 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+22:24:16.463 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+22:24:21.115 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:24:21.116 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:24:21.930 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:24:23.919 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+22:24:26.488 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+22:24:26.507 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+12:51:17.542 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Started
+12:51:17.621 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked MyAccount
+12:51:18.637 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Btn
+12:51:18.824 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input Email id to Login
+12:51:18.901 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input password to Login
+12:51:19.224 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Button
+12:51:19.258 [TestNG-tests-1] INFO  testCases.TC_002_Login - Title Validated
+12:51:20.168 [TestNG-tests-2] INFO  testCases.TC_002_Login - TC_002_Login Started
+12:51:20.431 [TestNG-tests-2] INFO  testCases.TC_002_Login - Clicked MyAccount
+12:51:21.666 [TestNG-tests-2] INFO  testCases.TC_002_Login - Clicked Login Btn
+12:51:21.737 [TestNG-tests-2] INFO  testCases.TC_002_Login - Input Email id to Login
+12:51:21.757 [TestNG-tests-2] INFO  testCases.TC_002_Login - Input password to Login
+12:51:22.050 [TestNG-tests-2] INFO  testCases.TC_002_Login - Clicked Login Button
+12:51:22.061 [TestNG-tests-2] INFO  testCases.TC_002_Login - Title Validated
+12:55:34.934 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+12:55:34.942 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+12:55:35.093 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+12:55:36.006 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+12:55:36.718 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+12:55:36.719 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+12:55:36.987 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+12:55:37.208 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+12:55:37.260 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+12:55:38.579 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+12:55:39.453 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+12:55:39.466 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+12:55:40.644 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Started
+12:55:40.699 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked MyAccount
+12:55:41.532 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Btn
+12:55:41.685 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input Email id to Login
+12:55:41.751 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input password to Login
+12:55:42.063 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Button
+12:55:42.095 [TestNG-tests-1] INFO  testCases.TC_002_Login - Title Validated
+12:55:45.043 [TestNG-tests-2] INFO  testCases.TC_002_Login - TC_002_Login Started
+12:55:45.288 [TestNG-tests-2] INFO  testCases.TC_002_Login - Clicked MyAccount
+12:55:46.277 [TestNG-tests-2] INFO  testCases.TC_002_Login - Clicked Login Btn
+12:55:46.331 [TestNG-tests-2] INFO  testCases.TC_002_Login - Input Email id to Login
+12:55:46.349 [TestNG-tests-2] INFO  testCases.TC_002_Login - Input password to Login
+12:55:46.627 [TestNG-tests-2] INFO  testCases.TC_002_Login - Clicked Login Button
+12:55:46.637 [TestNG-tests-2] INFO  testCases.TC_002_Login - Title Validated
+16:19:24.378 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+16:19:24.511 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+16:19:25.337 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+16:19:25.631 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+16:19:25.702 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+16:19:26.052 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+16:19:26.406 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+16:19:31.124 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+16:19:31.187 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+16:19:32.047 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+16:19:32.209 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+16:19:32.302 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+16:19:32.592 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+16:23:05.441 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+16:23:05.520 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+16:23:06.405 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+16:23:06.618 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+16:23:06.702 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+16:23:06.990 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+16:23:07.316 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+16:23:12.425 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+16:23:12.476 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+16:23:13.329 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+16:23:13.517 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+16:23:13.608 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+16:23:13.828 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+16:27:21.840 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+16:27:21.923 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+16:27:22.750 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+16:27:22.933 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+16:27:23.021 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+16:27:23.365 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+16:27:23.716 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+16:27:28.461 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+16:27:28.526 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+16:27:29.361 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+16:27:29.544 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+16:27:29.641 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+16:27:29.968 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+16:27:30.304 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+16:27:34.588 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+16:27:34.646 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+16:27:35.565 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+16:27:35.757 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+16:27:35.842 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+16:27:36.065 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:34:40.338 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:34:40.443 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:34:41.348 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:34:41.582 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:34:41.661 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:34:42.007 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:34:42.363 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:34:47.926 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:34:47.982 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:34:48.836 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:34:48.998 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:34:49.096 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:34:49.464 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:34:49.819 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:34:54.475 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:34:54.543 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:34:55.554 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:34:55.765 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:34:55.881 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:34:56.148 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:44:47.226 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:44:47.332 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:44:48.210 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:44:48.419 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:44:48.501 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:44:48.799 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:44:49.149 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:44:53.056 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:44:53.154 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:44:53.963 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:44:54.112 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:44:54.175 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:44:54.482 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:44:54.835 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:44:58.875 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:44:58.949 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:44:59.781 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:44:59.940 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:45:00.022 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:45:00.252 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:46:52.605 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:46:52.672 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:46:53.480 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:46:53.680 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:46:53.767 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:46:54.085 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:46:54.429 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:46:54.454 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:46:54.511 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:46:54.696 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:46:54.778 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:46:54.838 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:46:55.120 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:46:55.449 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:46:55.453 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:46:55.518 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:46:55.749 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:46:55.867 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:46:55.966 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:46:56.185 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:49:56.385 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:49:56.443 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:49:57.255 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:49:57.425 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:49:57.514 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:49:57.849 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:49:58.182 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:49:58.198 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:49:58.257 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:49:58.458 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:49:58.557 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:49:58.632 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:49:58.947 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:49:59.249 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:49:59.252 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:49:59.299 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:49:59.550 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:49:59.668 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:49:59.752 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:49:59.945 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:53:33.401 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:53:33.487 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:53:34.301 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:53:34.496 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:53:34.569 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:53:34.896 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:53:35.228 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:53:35.253 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:53:35.309 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:53:35.501 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:53:35.586 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:53:35.647 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:53:35.920 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:53:36.219 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:53:36.222 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:53:36.272 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:53:36.509 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:53:36.630 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:53:36.716 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:53:36.943 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:53:46.983 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:53:46.985 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:53:47.028 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:53:47.375 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:53:47.505 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:53:47.625 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:53:47.882 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:53:57.942 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+17:53:57.945 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+17:53:58.012 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+17:53:58.241 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login
+17:53:58.296 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Email id is entered
+17:53:58.374 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Password is entered
+17:53:58.639 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+17:54:08.661 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+19:56:42.828 [main] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+19:56:42.832 [main] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+19:56:42.918 [main] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+19:56:43.800 [main] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+19:56:45.375 [main] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+19:56:45.411 [main] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+19:56:57.625 [main] INFO  testCases.TC_002_Login - TC_002_Login Started
+19:56:57.678 [main] INFO  testCases.TC_002_Login - Clicked MyAccount
+19:56:58.491 [main] INFO  testCases.TC_002_Login - Clicked Login Btn
+19:56:58.667 [main] INFO  testCases.TC_002_Login - Input Email id to Login
+19:56:58.753 [main] INFO  testCases.TC_002_Login - Input password to Login
+19:56:59.105 [main] INFO  testCases.TC_002_Login - Clicked Login Button
+19:56:59.143 [main] INFO  testCases.TC_002_Login - Title Validated
+19:56:59.457 [main] INFO  testCases.TC_002_Login - TC_002_Login Finished
+19:58:18.194 [main] INFO  testCases.TC_002_Login - TC_002_Login Started
+19:58:18.282 [main] INFO  testCases.TC_002_Login - Clicked MyAccount
+19:58:19.159 [main] INFO  testCases.TC_002_Login - Clicked Login Btn
+19:58:19.337 [main] INFO  testCases.TC_002_Login - Input Email id to Login
+19:58:19.430 [main] INFO  testCases.TC_002_Login - Input password to Login
+19:58:19.757 [main] INFO  testCases.TC_002_Login - Clicked Login Button
+19:58:19.803 [main] INFO  testCases.TC_002_Login - Title Validated
+19:58:20.117 [main] INFO  testCases.TC_002_Login - TC_002_Login Finished
+20:01:00.691 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+20:01:00.698 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+20:01:00.779 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+20:01:01.661 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+20:01:01.661 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+20:01:01.708 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+20:01:01.949 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+20:01:02.973 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+20:01:03.006 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+20:01:03.331 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+20:01:04.701 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+20:01:04.739 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+20:01:09.370 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Started
+20:01:09.432 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked MyAccount
+20:01:10.210 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Btn
+20:01:10.379 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input Email id to Login
+20:01:10.463 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input password to Login
+20:01:10.772 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Button
+20:01:10.805 [TestNG-tests-1] INFO  testCases.TC_002_Login - Title Validated
+20:01:11.085 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+20:01:15.049 [TestNG-tests-2] INFO  testCases.TC_002_Login - TC_002_Login Started
+20:01:15.328 [TestNG-tests-2] INFO  testCases.TC_002_Login - Clicked MyAccount
+20:01:16.397 [TestNG-tests-2] INFO  testCases.TC_002_Login - Clicked Login Btn
+20:01:16.458 [TestNG-tests-2] INFO  testCases.TC_002_Login - Input Email id to Login
+20:01:16.481 [TestNG-tests-2] INFO  testCases.TC_002_Login - Input password to Login
+20:01:16.774 [TestNG-tests-2] INFO  testCases.TC_002_Login - Clicked Login Button
+20:01:16.790 [TestNG-tests-2] INFO  testCases.TC_002_Login - Title Validated
+20:01:17.060 [TestNG-tests-2] INFO  testCases.TC_002_Login - TC_002_Login Finished
+20:02:17.665 [main] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+20:02:17.726 [main] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+20:02:18.608 [main] INFO  testCases.TC_003_LoginDDT - Clicked Login
+20:02:18.775 [main] INFO  testCases.TC_003_LoginDDT - Email id is entered
+20:02:18.856 [main] INFO  testCases.TC_003_LoginDDT - Password is entered
+20:02:19.170 [main] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+20:02:19.478 [main] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+20:02:19.484 [main] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+20:02:19.538 [main] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+20:02:19.744 [main] INFO  testCases.TC_003_LoginDDT - Clicked Login
+20:02:19.881 [main] INFO  testCases.TC_003_LoginDDT - Email id is entered
+20:02:19.966 [main] INFO  testCases.TC_003_LoginDDT - Password is entered
+20:02:20.298 [main] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+20:02:20.607 [main] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+20:02:20.626 [main] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+20:02:20.689 [main] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+20:02:20.896 [main] INFO  testCases.TC_003_LoginDDT - Clicked Login
+20:02:21.033 [main] INFO  testCases.TC_003_LoginDDT - Email id is entered
+20:02:21.122 [main] INFO  testCases.TC_003_LoginDDT - Password is entered
+20:02:21.341 [main] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+20:02:31.386 [main] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+20:02:31.392 [main] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT Started
+20:02:31.436 [main] INFO  testCases.TC_003_LoginDDT - Clicked My Account
+20:02:31.762 [main] INFO  testCases.TC_003_LoginDDT - Clicked Login
+20:02:31.862 [main] INFO  testCases.TC_003_LoginDDT - Email id is entered
+20:02:31.955 [main] INFO  testCases.TC_003_LoginDDT - Password is entered
+20:02:32.206 [main] INFO  testCases.TC_003_LoginDDT - Clicked Login Button
+20:02:42.226 [main] INFO  testCases.TC_003_LoginDDT - TC_003_LoginDDT is finished
+22:32:00.704 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+22:32:00.714 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:32:00.883 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+22:32:02.069 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+22:32:04.133 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+22:32:04.202 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+22:32:09.624 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Started
+22:32:09.724 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked MyAccount
+22:32:10.668 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Btn
+22:32:11.011 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input Email id to Login
+22:32:11.186 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input password to Login
+22:32:11.685 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Button
+22:32:11.750 [TestNG-tests-1] INFO  testCases.TC_002_Login - Title Validated
+22:32:12.109 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+00:22:00.860 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+00:22:00.863 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+00:22:00.977 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+00:22:02.022 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+00:22:03.278 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+00:22:03.332 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+00:22:11.680 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Started
+00:22:11.799 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked MyAccount
+00:22:12.655 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Btn
+00:22:12.841 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input Email id to Login
+00:22:12.925 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input password to Login
+00:22:13.249 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Button
+00:22:13.279 [TestNG-tests-1] INFO  testCases.TC_002_Login - Title Validated
+00:22:13.560 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+00:26:27.589 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+00:26:27.593 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+00:26:27.698 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+00:26:28.782 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+00:26:30.022 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+00:26:30.082 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+00:26:38.296 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Started
+00:26:38.351 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked MyAccount
+00:26:39.256 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Btn
+00:26:39.437 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input Email id to Login
+00:26:39.522 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input password to Login
+00:26:39.846 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Button
+00:26:39.881 [TestNG-tests-1] INFO  testCases.TC_002_Login - Title Validated
+00:26:40.170 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+00:27:08.547 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+00:27:08.549 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+00:27:08.614 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+00:27:09.581 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+00:27:10.844 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+00:27:10.879 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+00:27:19.832 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Started
+00:27:19.888 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked MyAccount
+00:27:20.670 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Btn
+00:27:20.846 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input Email id to Login
+00:27:20.937 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input password to Login
+00:27:21.263 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Button
+00:27:21.295 [TestNG-tests-1] INFO  testCases.TC_002_Login - Title Validated
+00:27:21.572 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+01:50:59.679 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - test_RegisterAccount is started
+01:50:59.685 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+01:50:59.757 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked MyAccount
+01:51:00.698 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+01:51:01.946 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked Continue Button
+01:51:01.982 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validated Confirmation Message once the registrations is done
+01:51:08.542 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Started
+01:51:08.592 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked MyAccount
+01:51:09.468 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Btn
+01:51:09.624 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input Email id to Login
+01:51:09.695 [TestNG-tests-1] INFO  testCases.TC_002_Login - Input password to Login
+01:51:10.156 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked Login Button
+01:51:10.189 [TestNG-tests-1] INFO  testCases.TC_002_Login - Title Validated
+01:51:10.473 [TestNG-tests-1] INFO  testCases.TC_002_Login - TC_002_Login Finished
+10:32:02.113 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - TC_004_ValidateHomePageFooterLinks Started
+10:32:02.498 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - About Us link Verified
+10:32:02.801 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Delivery Information link Verified
+10:32:03.096 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Privacy Policy link Verified
+10:32:03.395 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Terms &Conditions link Verified
+10:32:03.714 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - ContactUs link Verified
+10:32:04.778 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Product Returns link Verified
+10:32:05.222 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - SiteMap link Verified
+10:32:05.546 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Brands link Verified
+10:32:05.817 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - GiftCertificates link Verified
+10:32:06.035 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Affliate link Verified
+10:32:06.504 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Specials Offers link Verified
+10:38:35.345 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - TC_004_ValidateHomePageFooterLinks Started
+10:38:35.661 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - About Us link Verified
+10:38:35.957 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Delivery Information link Verified
+10:38:36.256 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Privacy Policy link Verified
+10:38:36.558 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Terms &Conditions link Verified
+10:38:36.858 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - ContactUs link Verified
+10:38:37.745 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Product Returns link Verified
+10:38:38.202 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - SiteMap link Verified
+10:38:38.530 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Brands link Verified
+10:38:38.787 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - GiftCertificates link Verified
+10:38:39.000 [TestNG-tests-1] INFO  testCases.TC_004_ValidateHomePageFooterLinks - Affliate link Verified
